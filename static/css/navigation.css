@@ -1,0 +1,24 @@
+#navigation {
+    height: 100vh;
+    width: 10%;
+    background-color: black;
+    display: block;
+}
+#nav_links {
+    height:60%;
+    width:100%;
+    display: block;
+    justify-content: space-evenly;
+}
+#nav_links ul {
+    list-style-type: none;
+    justify-content: space-between;
+    display: block;
+    background-color: green;
+
+}
+#nav_links ul a {
+    justify-content: space-evenly;
+
+    display: block;
+}
